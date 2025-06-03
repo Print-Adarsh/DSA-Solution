@@ -17,4 +17,8 @@ public class TwoSum {
         return ans;
 
     }
+    
 }
+
+TC - O(n)
+SC - O(n)
